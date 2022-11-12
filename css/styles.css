@@ -407,7 +407,7 @@ Contact
 .contact-form {
   display: flex;
   flex-wrap: wrap;
-  max-width: 28rem;
+  max-width: 27.8rem;
 }
 .form-control {
   flex: 1 1 auto;
